@@ -18,7 +18,7 @@ a:hover {
   color: #113c00;
 }
 
-ib:focus {
+.nav a:focus {
   outline: 3px solid #000;
 }
 
@@ -94,10 +94,6 @@ td {
 .footer {
   background-color: #113c00;
   color: #fff;
-}
-
-.rando {
-  display: block;
 }
 
 .under {
