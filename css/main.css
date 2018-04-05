@@ -12,14 +12,13 @@ html {
 
 a {
   color: #568c36;
-  text-decoration: none;
 }
 
 a:hover {
   color: #113c00;
 }
 
-a:focus {
+ib:focus {
   outline: 3px solid #000;
 }
 
@@ -103,6 +102,7 @@ td {
 
 .under {
   text-decoration: underline;
+  color: #113c00;
 }
 
 @media only screen and (min-width: 35em) {
